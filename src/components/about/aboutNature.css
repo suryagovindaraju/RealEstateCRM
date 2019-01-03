@@ -1,0 +1,38 @@
+.top_image {
+	width: 100%;
+	float: left;
+	margin: 0 1em 1em 0;
+	height: 50%;
+}
+.fr {
+	float: left;
+}
+
+.carousel .slide .legend {
+    -webkit-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    position: relative;
+    bottom: 0px !important;
+     left: 0px !important; 
+     margin-left: 0px !important; 
+    width: 100% !important;
+    height: 50px;
+     border-radius: 0px !important; 
+    background: #000;
+    color: #fff;
+    padding: 0px !important;
+    font-size: 35px !important;
+    text-align: center;
+    opacity: .25;
+    -webkit-transition: opacity .35s ease-in-out;
+    -o-transition: opacity .35s ease-in-out;
+    transition: opacity .35s ease-in-out;
+    text-transform: uppercase;
+    text-align: center;
+}
+.dreams {
+    color: #CC935C;
+    font-size: 45px;
+    text-align: center;
+}

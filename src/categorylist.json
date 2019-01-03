@@ -1,0 +1,174 @@
+{
+    "ReplyCode": "Success",
+    "msg": "Category list",
+    "sid": "afd9f590e1545bd598b46ce4a341d12c",
+    "result": [
+               {
+               "cat_id": 2,
+               "category": "Food",
+               "subcategory": [
+                               {
+                               "id": 3,
+                               "category": "Restaurants"
+                               },
+                               {
+                               "id": 13,
+                               "category": "Bakery"
+                               },
+                               {
+                               "id": 4,
+                               "category": "Fast Food"
+                               },
+                               {
+                               "id": 14,
+                               "category": "Cafe"
+                               },
+                               {
+                               "id": 15,
+                               "category": "Midnite Restaurants"
+                               },
+                               {
+                               "id": 16,
+                               "category": "Meal Takeaway"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 12,
+               "category": "Movies",
+               "subcategory": [  {
+                               "id": 48,
+                               "category": "Now Showing"
+                               },
+                               {
+                               "id": 49,
+                               "category": "Coming Soon"
+                               },
+                               {
+                               "id": 51,
+                               "category": "Box Office"
+                               }]
+               },
+               {
+               "cat_id": 8,
+               "category": "Night Life",
+               "subcategory": [
+                               {
+                               "id": 32,
+                               "category": "Night Clubs"
+                               },
+                               {
+                               "id": 33,
+                               "category": "Bars"
+                               },
+                               {
+                               "id": 34,
+                               "category": "Casinos"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 11,
+               "category": "Boutiques",
+               "subcategory": [
+                               {
+                               "id": 43,
+                               "category": "Dresses"
+                               },
+                               {
+                               "id": 44,
+                               "category": "Jewellery"
+                               },
+                               {
+                               "id": 45,
+                               "category": "Accessories"
+                               },
+                               {
+                               "id": 46,
+                               "category": "Shoes"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 9,
+               "category": "Day Care",
+               "subcategory": [
+                               {
+                               "id": 35,
+                               "category": "Child Day Care"
+                               },
+                               {
+                               "id": 36,
+                               "category": "Pets Day Care"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 6,
+               "category": "Electronics",
+               "subcategory": []
+               },
+               {
+               "cat_id": 10,
+               "category": "Housing",
+               "subcategory": [
+                               {
+                               "id": 37,
+                               "category": "Real Estate"
+                               },
+                               {
+                               "id": 38,
+                               "category": "HandyMan"
+                               },
+                               {
+                               "id": 39,
+                               "category": "Plumbing"
+                               },
+                               {
+                               "id": 40,
+                               "category": "Lawn Care"
+                               },
+                               {
+                               "id": 41,
+                               "category": "Maintenance"
+                               },
+                               {
+                               "id": 42,
+                               "category": "Repair & Painting"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 7,
+               "category": "Shopping",
+               "subcategory": [
+                               {
+                               "id": 28,
+                               "category": "Malls"
+                               },
+                               {
+                               "id": 29,
+                               "category": "Clothing"
+                               },
+                               {
+                               "id": 30,
+                               "category": "Supermarket"
+                               },
+                               {
+                               "id": 31,
+                               "category": "Department Stores"
+                               }
+                               ]
+               },
+               {
+               "cat_id": 47,
+               "category": "Others",
+               "subcategory": []
+               },
+               {
+               "cat_id": 1,
+               "category": "Jobs",
+               "subcategory": []
+               }
+               ]
+}

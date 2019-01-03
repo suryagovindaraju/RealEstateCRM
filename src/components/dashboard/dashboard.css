@@ -1,0 +1,154 @@
+.fullheight {
+  height: 100%;
+}
+.menu_icon {
+	height: 15px;
+	width: 15px;
+}
+.loc_icon {
+	width: 20px;
+}
+.search_icon {
+	width: 25px;
+}
+.background_transparent {
+	background-color: transparent;
+}
+.herder-style {
+	text-align: center; 
+	font-size:25px;
+}
+.location {
+	text-align: center;
+	margin-top: -15px;
+}
+.cat_bg {
+	background-image: url("../../assets/restaurants_bg.png");
+  display: block;
+  overflow: hidden;
+  height: 200px;
+  margin-top: -10px;
+}
+.search-div{
+  padding-top: 30px;
+  text-align: center;
+}
+.search-input {
+	border-radius: 10px;
+	width: 300px;
+	height: 50px;
+}
+.cat_icon {
+	width: 50px;
+	height: 50px;
+}
+
+
+/*category scroll*/
+#container .box {
+  width:25vw;
+  height:25vh;
+  display:inline-block;
+  position:relative;
+}
+#container .box >div >a >p{
+  color: lightgray;
+}
+#container .box > div {
+  width:100px;
+  height:100px;
+  font-size:15px;
+  color:#FFF;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin:-50px 0 0 -30px;
+}
+#container {
+  overflow-y:scroll;
+  overflow-x:hidden;
+  transform: rotate(270deg) translateX(-100%);
+  transform-origin: top left;
+  position:absolute;
+  width:100vh;
+  height:100vw;
+}
+#container2 {
+  transform: rotate(90deg) translateY(-100vh);
+  transform-origin: top left;
+  white-space:nowrap;
+  font-size:0;
+}
+
+
+/*subcatergory scroll*/
+#subcontainer .box {
+        width: 100px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    /* padding-top: 7px; */
+    top: 10px;
+}
+#subcontainer .box > div {
+  width:100px;
+  height:100px;
+  font-size:15px;
+  color:#FFF;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin:-50px 0 0 -30px;
+}
+#subcontainer {
+  overflow-y:scroll;
+  overflow-x:hidden;
+  transform: rotate(270deg) translateX(-100%);
+  transform-origin: top left;
+  position:absolute;
+  width:100vh;
+  height:100vw;
+}
+#subcontainer2 {
+  transform: rotate(90deg) translateY(-100vh);
+  transform-origin: top left;
+  white-space:nowrap;
+  font-size:0;
+  background-color: deepskyblue;
+}
+
+
+.subcategory {
+  width: 100%;
+  height: 50px;
+  background-color: deepskyblue;
+}
+.dashboard {
+  width: 100%;
+  height:100%;
+}
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+.btn-link {
+    color: grey;
+}
+:-moz-any-link:focus {
+  outline: none;
+}
+
+.dashboard-data {
+  background-color: darkgrey;
+  height: 200px;
+  width: 100%;
+  
+}

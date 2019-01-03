@@ -1,0 +1,51 @@
+@media (min-width: 320px) and (max-width: 630px) { 
+	.signup_top_padding {
+		padding-top: 50px;
+	}
+}
+@media (min-width: 640px) { 
+ 	.signup_top_padding {
+		padding-top: 50px;
+	}
+}
+.signup_bg_image{
+	background-image: url("../../assets/signin_bg.png");
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.signup_box {
+	border: 10px;
+	border-radius: 10px;
+	border-color: black;
+	background-color: white;
+	width: 300px;
+	margin:0 auto;
+	margin-top: -20px;
+}
+.photo_upload{
+	width: 300px;
+}
+.upload_image {
+	border: 5px;
+	border-radius: 5px;
+	margin:0 auto;
+}
+.terms {
+	color: white;
+}
+.pb {
+	padding-bottom: 10px;
+}
+.ml{
+	margin-left: -24px;
+}
+.text_width {
+	width: 300px;
+}
+

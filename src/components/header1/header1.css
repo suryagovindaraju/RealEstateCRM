@@ -1,0 +1,18 @@
+.navbar-inverse {
+    /*background-image: url("../../assets/navbar1.jpeg");*/
+    /background-image: linear-gradient(to bottom, #d82323 0, #222 100%);
+}
+
+.navbar {
+    margin-bottom: 0px;
+    width: 100%;
+    z-index: 999;
+}
+
+.logo {
+    width: 185px;
+}
+
+.navContainer {
+    height: 85px;
+}

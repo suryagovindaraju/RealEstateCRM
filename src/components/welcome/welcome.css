@@ -1,0 +1,73 @@
+@media (min-width: 320px) and (max-width: 630px) { 
+	.top_padding {
+		padding-top: 120px;
+	}
+}
+@media (min-width: 640px) { 
+ 	.top_padding {
+		padding-top: 50px;
+	}
+}
+.bg_image{
+	background-image: url("../../assets/login_bg.png");
+	position: absolute; 
+  	top: 0; 
+  	left: 0; 
+
+  	/* Preserve aspet ratio */
+  	min-width: 100%;
+  	min-height: 100%;
+}
+.center_align {
+	text-align: center;
+}
+
+.logo_image {
+	width: 180px;
+	height: 80px;
+}
+.login_btn {
+	width: 250px;
+	height: 50px;
+}
+.login_button {
+	border: none;
+    background: none;
+	background-color: transparent;
+}
+.login_div {
+	padding-top: 100px;
+}
+.fb_btn {
+	width: 110px;
+	height: 50px;
+}
+.g_btn {
+	width: 110px;
+	height: 50px;
+}
+.fb_view {
+	padding-top: 15px;
+}
+.textAlignStart {
+	text-align: start;
+}
+.textAlignEnd {
+	text-align: end;
+}
+.new_member {
+	padding-top: 70px;
+}
+.register {
+	color: grey;
+	background: transparent;
+}
+.hey{
+	color: grey;
+    font-size: 24px;
+    padding-top: 30px;
+}
+.discover{
+	color: grey;
+    font-size: 15px;
+}

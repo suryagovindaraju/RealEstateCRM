@@ -1,0 +1,105 @@
+@media (min-width: 320px) and (max-width: 630px) { 
+	.top_padding {
+		padding-top: 100px;
+	}
+}
+@media (min-width: 640px) { 
+ 	.top_padding {
+		padding-top: 50px;
+	}
+}
+.signin_bg_image{
+	background-image: url("../../assets/signin_bg.png");
+	position: fixed; 
+  	top: 0; 
+  	left: 0; 
+  	bottom: 0;
+  	right: 0;
+  	display: block;
+  	 overflow: hidden;
+  	/* Preserve aspet ratio */
+  	min-width: 100%;
+  	min-height: 100%;
+}
+
+.center_align {
+	text-align: center;
+}
+
+.close_icon {
+	width: 15px;
+	height: 15px;
+	
+}
+.centered {
+	margin:0 auto;
+	justify-content: center;
+}
+.sign_with {
+	color: white;
+	size: 12px;
+}
+.text_align {
+	text-align: end;
+}
+.input_box {
+	width: 320px;
+	height: 200px;
+	background-color: white;
+	margin:0 auto;
+	border-radius: 10px;
+}
+.login_btn {
+	width: 250px;
+	height: 50px;
+	
+}
+.login_button {
+	border: none;
+    background: none;
+	background-color: transparent;
+}
+.login_div_signin {
+	padding-top: 10px;
+}
+.fb_btn {
+	width: 110px;
+	height: 50px;
+}
+.g_btn {
+	width: 110px;
+	height: 50px;
+}
+.btn_transparent {
+	background-color: transparent;
+	color: grey;
+}
+.signin {
+	color: white;
+}
+.new_member_signin {
+	padding-top: 10px;
+}
+.email {
+	border: 2px;
+	border-color: grey;
+	padding-top: 10px;
+}
+.input {
+	width: 300px;
+    height: 60px;
+    
+}
+.lbl {
+    color: grey;
+    text-align: start;
+    margin-bottom: -1px;
+    padding-left: 5px;
+}
+.dummy1 {
+	position: relative;
+	text-align: center;
+}
+.dummy2 {
+	justify-content: space-between;
+}
